@@ -27,7 +27,7 @@ Files have been edited to run without .sh files. This is for the purpose of test
     - problem: matchnet is not trained for objects, but for tetural data.
     - solution: train on object data, then look further into how network adapts to object variations.
 
-results: Top Match and Matches above 0.95 score
+results: Top Match and Matches above 0.95 score (brighter red implies higher score)
 
 ![00000161](https://user-images.githubusercontent.com/11435669/30651982-284f4dc8-9df5-11e7-838e-7c8c3a7245b7.jpg)
 ![top00000161](https://user-images.githubusercontent.com/11435669/30652004-3410b516-9df5-11e7-857a-f8fdf6ae6472.jpg)
